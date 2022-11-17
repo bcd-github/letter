@@ -1,0 +1,10 @@
+{
+    "to": "To&nbsp;&nbsp;你好",
+    "from": "卞成栋",
+    "recipient": "アリス^200ちゃん",
+    "sender": "Bob",
+    "title": "eLuvLetter",
+    "stamp": "./img/stamp.png",
+    "bgm": "./bgm/bgm.mp3",
+    "text": "你好呀<br>今天心情怎么样啊。"
+}
